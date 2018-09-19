@@ -1,13 +1,9 @@
-map drums exercise
-review azure, lamp ftp, now
-quiz
-
-
 ESLINT
 Prettier
 BAbel
 
 fetch
+setup custom mockaroo apis
 tim horton's
 json
 takeup lab1/lab2 by doing
