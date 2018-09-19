@@ -1,0 +1,20 @@
+map drums exercise
+review azure, lamp ftp, now
+quiz
+
+
+ESLINT
+Prettier
+BAbel
+
+fetch
+tim horton's
+json
+takeup lab1/lab2 by doing
+in-class exercise redo lab2 using multiple getrandomuser.me and fetch (use scheme 1 to get 3 initially), then button adds 1 more to the list using either setTimeout/setInterval
+
+lab redo lab1 (email) using mockaroo's api
+
+preview of assignment1
+
+
